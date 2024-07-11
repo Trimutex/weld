@@ -24,7 +24,7 @@ For this guide, we will split this into three main sections:
 - [Install Linux, but be able to go back if needed]()
 - [Throw away Windows, I only want Linux]()
 
-[Step FAQ]()
+[Section FAQ]()
 
 ## Step 2: What distribution do you want to pick for your foundation?
 There are many distributions to choose from, and it can be confusing.
@@ -32,7 +32,7 @@ To make it easier, let's break down the choices.
 
 [Choose a distribution]()
 
-[Step FAQ]()
+[Section FAQ]()
 
 ## Step 3: How do you want it to look?
 **Skip this section if your distribution comes with a desktop environment**
@@ -41,14 +41,14 @@ Let's pick one from a shorter list to start, and you can dig deeper afterwards.
 
 [Choose a GUI]()
 
-[Step FAQ]()
+[Section FAQ]()
 
 ## Step 4: Installing the distribution
 Now that you have picked out the core components, let's get it installed.
 
 [Installing Linux]()
 
-[Step FAQ]()
+[Section FAQ]()
 
 
 # Software Replacement Suggestions
