@@ -30,7 +30,7 @@ For this guide, we will split this into three main sections:
 There are many distributions to choose from, and it can be confusing.
 To make it easier, let's break down the choices.
 
-[Choose a distribution]()
+[Choose a distribution](guides/distro.md)
 
 [Section FAQ]()
 
