@@ -39,7 +39,7 @@ To make it easier, let's break down the choices.
 Many choices exist that you can explore. 
 Let's pick one from a shorter list to start, and you can dig deeper afterwards.
 
-[Choose a GUI]()
+[Choose a GUI](guides/gui.md)
 
 [Section FAQ]()
 
