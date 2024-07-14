@@ -20,9 +20,9 @@ Submit an issue where we can help you, and add to the FAQ for helping others!
 
 ## Step 1: Pick your installation type
 For this guide, we will split this into three main sections:
-- [Remain on Windows, but have some Linux](guides/type.md#Windows)
-- [Install Linux, but be able to go back if needed](guides/type.md#Dual-Boot)
-- [Throw away Windows, I only want Linux](guides/type.md#Linux)
+- [Remain on Windows, but have some Linux](guides/type.md#remain-on-windows-but-have-some-linux)
+- [Install Linux, but be able to go back if needed](guides/type.md#install-linux-but-be-able-to-go-back-if-needed)
+- [Throw away Windows, I only want Linux](guides/type.md#throw-away-windows-i-only-want-linux)
 
 [Section FAQ]()
 
