@@ -46,10 +46,13 @@ Let's pick one from a shorter list to start, and you can dig deeper afterwards.
 ## Step 4: Installing the distribution
 Now that you have picked out the core components, let's get it installed.
 
-[Installing Linux]()
+[Installing Linux](guides/linux.md)
 
 [Section FAQ]()
 
+## Step 5: Enjoy your computer's new home!
+The journey is now complete!
+Feel free to share this guide to help others make the journey
 
 # Software Replacement Suggestions
 A problem you will inevitably encounter is some specific software not having Linux support.
