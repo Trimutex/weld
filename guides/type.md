@@ -17,8 +17,6 @@ Doing this, you are free to return to Windows whenever you need.
 ## Throw away Windows, I only want Linux
 This type deletes Windows entirely, giving all the space to Linux.
 
->**Warning: this erases all the data, even the important stuff!**
-> Consider starting with a dual boot and then moving the data if you want this.
-> You can always reclaim this space later with this method
-
-
+>**Warning: this erases all the data, even the important stuff!**  
+> Consider starting with a dual boot and then moving the data if you want this.  
+> You can always reclaim this space later with this method.  
