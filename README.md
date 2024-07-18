@@ -1,4 +1,4 @@
-# Windows Extraneous Linux Desired (weld)
+# Windows Escaped Linux Deployed (weld)
 A simpler explanation for the move from Windows to Linux.
 
 There are so many options for getting started in Linux, it can be overwhelming.
