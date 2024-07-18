@@ -1,6 +1,8 @@
 # Picking a GUI
 All of these options are easy to swap later, so don't panick about picking the right one first.
 
+[Section FAQ](faq-gui.md)
+
 ## Login Screen
 These are typically called display managers.
 > [List on Arch wiki](https://wiki.archlinux.org/title/display_manager)
@@ -35,3 +37,4 @@ A tiling compositor.
 ### [i3](https://i3wm.org/)
 A tiling window manager.  
 [sample](https://github.com/addy-dclxvi/i3-starterpack)
+

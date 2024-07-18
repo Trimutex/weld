@@ -3,6 +3,8 @@ Picking a distribution can be tough, especially with all the choices.
 To make it easier, let's limit the choices to the few important ones to start.
 You can always replace it later if you fancy distro hopping.
 
+[Section FAQ](faq-distro.md)
+
 ## Full List
 - Kubuntu
 - Mint
@@ -42,5 +44,3 @@ Safer option if you don't want to mess with the system once it's setup.
 This is great for using the newest packages.
 Will require lots of tinkering.
 [Installation Guide](https://wiki.archlinux.org/title/installation_guide)
-
-[Section FAQ]()

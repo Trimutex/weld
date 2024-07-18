@@ -13,7 +13,7 @@ Couldn't find it in there?
 This guide isn't all encompassing and others may have the same question.
 Submit an issue where we can help you, and add to the FAQ for helping others!
 
-[General FAQ]() 
+[General FAQ](guides/faq-general.md)
 
 
 # Main Guide
@@ -24,7 +24,7 @@ For this guide, we will split this into three main sections:
 - [Install Linux, but be able to go back if needed](guides/type.md#install-linux-but-be-able-to-go-back-if-needed)
 - [Throw away Windows, I only want Linux](guides/type.md#throw-away-windows-i-only-want-linux)
 
-[Section FAQ]()
+[Section FAQ](guides/faq-type.md)
 
 ## Step 2: What distribution do you want to pick for your foundation?
 There are many distributions to choose from, and it can be confusing.
@@ -32,7 +32,7 @@ To make it easier, let's break down the choices.
 
 [Choose a distribution](guides/distro.md)
 
-[Section FAQ]()
+[Section FAQ](guides/faq-distro.md)
 
 ## Step 3: How do you want it to look?
 **Skip this section if your distribution comes with a desktop environment**
@@ -41,14 +41,14 @@ Let's pick one from a shorter list to start, and you can dig deeper afterwards.
 
 [Choose a GUI](guides/gui.md)
 
-[Section FAQ]()
+[Section FAQ](guides/faq-gui.md)
 
 ## Step 4: Installing the distribution
 Now that you have picked out the core components, let's get it installed.
 
 [Installing Linux](guides/linux.md)
 
-[Section FAQ]()
+[Section FAQ](guides/linux.md)
 
 ## Step 5: Enjoy your computer's new home!
 The journey is now complete!
@@ -60,4 +60,4 @@ Have no fear!
 There are existing replacements.
 While these aren't drop in replacements, you might find them more comfortable in the end.
 
-[Suggested alternatives]()
+[Suggested alternatives](guides/replacements.md)

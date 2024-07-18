@@ -1,5 +1,7 @@
 # Installation Types
 
+[Section FAQ](faq-type.md)
+
 ## Remain on Windows, but have some Linux
 For this type, you can use Windows Subsystem for Linux.  
 This is not currently planned to be covered in this guide.  
@@ -20,4 +22,3 @@ This type deletes Windows entirely, giving all the space to Linux.
 > You can always reclaim this space later with this method
 
 
-[Section FAQ]
