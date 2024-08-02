@@ -1,5 +1,7 @@
 # FAQ - GUI
 
+> [Back to Main Guide](main.md)
+
 ## Table of Contents
 - [Example](#Example)
 
