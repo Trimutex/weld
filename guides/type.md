@@ -2,6 +2,8 @@
 
 [Section FAQ](faq-type.md)
 
+> [Back to Main Guide](main.md)
+
 ## Remain on Windows, but have some Linux
 For this type, you can use Windows Subsystem for Linux.  
 This is not currently planned to be covered in this guide.  

@@ -1,5 +1,7 @@
 # Main Guide
 
+> [Back to Overview](../README.md)
+
 ## Step 1: Pick your installation type
 For this guide, we will split this into three main sections:
 - [Remain on Windows, but have some Linux](type.md#remain-on-windows-but-have-some-linux)

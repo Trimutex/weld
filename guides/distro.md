@@ -5,6 +5,8 @@ You can always replace it later if you fancy distro hopping.
 
 [Section FAQ](faq-distro.md)
 
+> [Back to Main Guide](main.md)
+
 ## Full List
 - Kubuntu
 - Mint

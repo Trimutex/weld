@@ -1,7 +1,8 @@
 # Picking a GUI
 All of these options are easy to swap later, so don't panick about picking the right one first.
-
 [Section FAQ](faq-gui.md)
+
+> [Back to Guide Overview](main.md)
 
 ## Login Screen
 These are typically called display managers.
