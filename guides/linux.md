@@ -3,7 +3,7 @@ Now that you have chosen your Linux pieces, its time to assemble them!
 
 [Section FAQ](faq-linux.md)
 
-> [Back to Main Guide](main.md)
+> [Back to Overview](../README.md)
 
 ## Creating space
 If you are dual-booting, you have two options:
