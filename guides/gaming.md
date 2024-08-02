@@ -10,16 +10,16 @@ Fortunately, this is very easy to do.
 > Note: Package names are provided based on Arch, but naming can differ on other distros
 
 ### Nvidia
-Packages: nvidia nvidia-utils lib32-nvidia-utils
+Packages to install: nvidia nvidia-utils lib32-nvidia-utils  
 Having trouble? Visit the [Nvidia Arch Wiki](https://wiki.archlinux.org/title/NVIDIA)
 
 
 ### AMD
-Packages: mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
+Packages to install: mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon  
 Having trouble? Visit the [AMD Arch Wiki](https://wiki.archlinux.org/title/AMDGPU)
 
 ### Intel
-Packages: mesa lib32-mesa
+Packages to install: mesa lib32-mesa  
 Having trouble? Visit the [Intel Arch Wiki](https://wiki.archlinux.org/title/Intel_graphics)
 
 
