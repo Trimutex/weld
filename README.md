@@ -6,6 +6,11 @@ A lot of it could be ignored for starting out though, so here's the important on
 
 > Note: This guide is very much generalized. Hardware edge-cases may not be included.
 
+> [!CAUTION]
+> Archived
+> This project has been archived on GitHub.
+> Continued development on this project has been moved to [here](https://lab.trianta.dev/trianta/weld).
+
 ## Overview of Topics
 - [Main Guide](guides/main.md)
 - [Gaming on Linux](guides/gaming.md)
